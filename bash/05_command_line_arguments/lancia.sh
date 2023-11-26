@@ -1,0 +1,2 @@
+
+./stampaargs.sh $# "$@"
