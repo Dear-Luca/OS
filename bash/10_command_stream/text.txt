@@ -1,0 +1,5 @@
+Questa è la A prima riga di testo.
+Un esempio di file con alcune righe.
+Ogni riga contieneA  almeno 4 parole.
+Spero che questo esempio sia utile.
+Grazie per utilizzare questo servizio.
