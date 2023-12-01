@@ -1,0 +1,6 @@
+Questo è un esempio di file di testo con        almeno 5* righe.
+Ogni riga contiene almeno 7 parole separate da spazi e tabulazioni.
+Includiamo anche un asterisco * in alcune parole.
+Questo aiuterà a illustrare meglio il processo di  * scrittura di file di testo.
+Speriamo che questo esempio sia di aiuto per comprendere    il formato desiderato.
+ciao
