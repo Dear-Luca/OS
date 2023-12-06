@@ -20,6 +20,7 @@
 void *func(void *arg) {
     int *index = (int *)arg;
     printf("Index of this thread: %d\n", *index);
+    free(arg);
     pthread_exit(NULL);
 }
 
