@@ -1,0 +1,7 @@
+/* printerror.h */
+#include <stdint.h>
+#define PrintERROR_andExit( ERRORCODE, STRMSG )				\
+		printf("%s: errorcode %d %s - Quit\n",			\
+#define PrintErrnoAndExit( STRMSG ) 					\
+	do {	int myerrno;						\
+		printf("%s: errno %d %s - Quit\n",			\
